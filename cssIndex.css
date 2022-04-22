@@ -18,11 +18,20 @@ h4{
     text-decoration: transparent;
 }
 
-a {
-    color: rgb(216, 25, 8);
+.link1 {
+    color: rgb(239, 227, 226);
     text-transform: uppercase;
-    letter-spacing: 3px;
+    text-decoration: none;
     text-shadow: 1px 2px 2px rgba(75, 75, 75, 0.41);
+    background-color: rgb(170, 33, 33);
+    border: solid 1px rgb(48, 6, 6);
+    padding: 10px;
+    border-radius: 7px;
+}
+
+a:hover {
+    color: rgb(212, 206, 206);
+    background-color: rgb(112, 8, 8);
 }
 
 .parr2 {
@@ -40,4 +49,35 @@ h2 {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 1.5em;
     font-weight: bold;
+}
+/*Cambiar las propiedades de los links con CSS*/
+.hotlink {
+    color: rgb(255, 104, 129);
+    text-decoration: none;
+    background-color: blueviolet;
+    padding: 10px;
+    margin: 15px;
+    margin-top: 15px;
+    border-radius: 4px;
+}
+/**/
+.hotlink:link {
+    color: rgb(126, 5, 1);
+}
+/*Utilizamos ":visited, para cambiarle las 
+propiedades del link una vez este ya haya sido visitado*/
+.hotlink:visited {
+    color: rgb(25, 229, 21);
+}
+/*Utilizamos :hover, para cambiar las propiedades de los
+links cuando el cursor del mouse pase por encima de este.*/
+.hotlink:hover {
+    color: rgb(138, 137, 140);
+    text-decoration: underline;
+    background-color: pink;
+}
+/*Utilizamos :active, para cambiar las propiedades del link
+cuando este haya sido clickado por el usuario.*/
+.hotlink:active {
+    color: rgb(57, 15, 207);
 }
