@@ -20,23 +20,15 @@
 
   ### :man_technologist: Sobre mi:
 
-  - 🔭 I’m currently working on ...
+  - 🔭 Actualmente estoy trabajando en "cocina con Micaela", mi nuevo proyecto.
   
-  - 🌱 I’m currently learning ...
-    
-  - 👯 I’m looking to collaborate on ...
-    
-  - 🤔 I’m looking for help with ...
-    
-  - 💬 Ask me about ...
-    
-  - 📫 How to reach me: ...
-    
-  - 😄 Pronouns: ...
-  
-  - ⚡ Fun fact: ...
+  - 🌱 Estoy aprendiendo: Astro, Fetch data from an API, php y MySQL.
+            
+  - 📫 Como te puedes poder en contacto conmigo: A traves de mis redes sociales.
+      
+  - ⚡ Fun fact: No he visto Los Serrano.
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Herramientas y lenguajes:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
