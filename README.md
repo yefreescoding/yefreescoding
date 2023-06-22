@@ -18,8 +18,8 @@
 </div>
 ---
 
-<div align="center">
   ### :man_technologist: Sobre mi:
+
   - 🔭 I’m currently working on ...
   
   - 🌱 I’m currently learning ...
@@ -35,7 +35,6 @@
   - 😄 Pronouns: ...
   
   - ⚡ Fun fact: ...
-</div>
 
 
 
