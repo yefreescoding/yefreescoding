@@ -3,8 +3,8 @@ Desarrollador de software web autodidacta, especializado en **front end**. Las h
 
 ## Contacto
 - yefree13santos@outlook.com
-- ![Portfolio](https://yefreevaldezdev.vercel.app)
-- ![Blog personal](https://devlog.vercel.app)
+- [Portfolio](https://yefreevaldezdev.vercel.app)
+- [Blog personal](https://devlog.vercel.app)
 
 
 
