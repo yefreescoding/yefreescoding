@@ -10,12 +10,7 @@ Desarrollador de software web autodidacta, especializado en **front end**. Las h
 
 Esta es la lista de los proyectos mas destacados de mi repertorio. Una muestra de mi experiencia como desarrollador.
 
-### 1. Portfolio Personal
-
-Un sitio web para mi, hecho por mi. Un espacio donde demostrar mis habilidades y proyectos recientes, aparte de una muestra de lo que soy capaz de hacer. Trato de actualizarla siempre que puede para mantenerla con el mejor rendimiento posible.
-
-- Las tecnologias que utilice para construir el sitio web son: **HTML**, **Vanilla JavaScript**, y **CSS**. Todo esto dentro del framwork **Astro**
-- Retos que me encontre durante la realización del proyecto: Optimizacion de las imagenes e iconos, carga de recursos al cliente, y un diseño responsive para los diferentes tipos de pantalla.
+### Updating... Don't turn off your computer.
 
 
 
