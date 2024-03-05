@@ -1,16 +1,16 @@
 # Yefree De Los Santos.  
-Desarrollador de software web autodidacta, especializado en **front end**. Las herramientas que utilizo para hacer mis ideas realidad son **React**, **HTML**, y **CSS** (**SASS**, **Tailwind**). Mi misión es aportar mi granito de arena para que el internet siga siendo ese lugar curioso, extraño y lleno de oportunidades. 
+Desarrollador de software web autodidacta. Las herramientas que utilizo para hacer mis ideas realidad son  **HTML**, **CSS**, **SASS**, **Tailwind**, **JavaScrit**, **TypeScript**, **React**, y **NextJS**. Mi misión es aportar mi granito de arena para que el internet siga siendo ese lugar curioso, extraño y lleno de oportunidades. 
 
-## Contacto
-- yefree13santos@outlook.com
+## Donde me puedes encontrar:
 - [Portfolio](https://yefreevaldezdev.vercel.app)
-- [Blog personal](https://devlog.vercel.app)
+- [Mi Blogl](https://devlog.vercel.app)
+- [Twitter/X](https://twitter.com/YefreeCodes)
+- [LinkedIn](https://www.linkedin.com/in/yefree-de-los-santos-aa13571b8/)
 
-## Proyectos destacados
+## Contacto:
+- yefree13santos@outlook.com
+- Twitter/X DMs
 
-Esta es la lista de los proyectos mas destacados de mi repertorio. Una muestra de mi experiencia como desarrollador.
-
-### Updating... Don't turn off your computer.
 
 
 
