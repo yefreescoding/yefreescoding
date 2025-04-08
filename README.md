@@ -3,13 +3,12 @@ Desarrollador de software web autodidacta. Las herramientas que utilizo para hac
 
 ## Donde me puedes encontrar:
 - [Portfolio](https://yefreevaldezdev.vercel.app)
-- [Mi Blogl](https://devlog.vercel.app)
-- [Twitter/X](https://twitter.com/YefreeCodes)
+- [Blog](https://devlog.vercel.app)
+- [X](https://twitter.com/YefreeCodes)
 - [LinkedIn](https://www.linkedin.com/in/yefree-de-los-santos-aa13571b8/)
 
 ## Contacto:
 - yefree13santos@outlook.com
-- Twitter/X DMs
 
 
 
